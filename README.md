@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Sajid. I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collab in research and development related to data.👋
 
 <!--
 **Neucro/Neucro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
