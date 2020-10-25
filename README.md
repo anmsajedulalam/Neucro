@@ -16,7 +16,7 @@ In short:
 - ⚡ Fun fact: I think cooking is more like coding. 
 
 
-[![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=neucro&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=synthwave)](https://github.com/neucro/github-readme-stats)
+[![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=neucro&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=cobalt)](https://github.com/neucro/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Neucro+Profile+View+Counts)
 
