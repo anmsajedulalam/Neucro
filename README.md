@@ -16,6 +16,11 @@ In short:
 - ⚡ Fun fact: I think cooking is more like coding. 
 
 
+![](https://komarev.com/ghpvc/?username=neucro)
+![](https://komarev.com/ghpvc/?username=neucroe&color=f5e642)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=I+am+watching+you+Neucro+Profile+View+Counts)
+
 <!--
 **Neucro/Neucro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
