@@ -12,7 +12,7 @@ In short:
 - 🤔 I’m looking for help with jobs.
 - 💬 Ask me about giving me opportunities.
 - 📫 How to reach me: mail me.
-- 😄 Pronouns: He, Mr.
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I think cooking is more like coding. 
 
 
