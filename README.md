@@ -18,7 +18,7 @@ In short:
 
 
 
-![](https://komarev.com/ghpvc/?username=neucro&color=f5e642&style=plastic&label=I+am+watching+you+Neucro+Profile+View+Counts)
+![](https://komarev.com/ghpvc/?username=neucro&color=f5e642&style=plastic&label=I+am+watching+you!+Neucro+Profile+View+Counts)
 
 <!--
 **Neucro/Neucro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
