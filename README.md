@@ -18,9 +18,7 @@ In short:
 
 [![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=neucro&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Neucro+Profile+View+Counts)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neucro)](https://github.com/neucro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neucro&langs_count=10)](https://github.com/neucro/github-readme-stats)
 
 ![Alt Text](https://media.giphy.com/media/OasSW8GLzw8Fb6R8hv/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/lZ9OcB2Y1YqJxPXZU0/giphy.gif)
@@ -40,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Mr.
 - ⚡ Fun fact: I think cooking is more like coding. 
 -->
+![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Neucro+Profile+View+Counts)
