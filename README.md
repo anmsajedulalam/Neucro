@@ -3,6 +3,8 @@
 
 I am a curious guy who has desire for tech and research. Trying to learn something each day. I love to code and build things. My current focus is to work with AI/ML/DL. At present actively looking for opportunities to collab in research and development related to data.
 
+I also have interest in Mobile App Development. I am interested to work with Android and Flutter.
+
 
 In short: 
 
