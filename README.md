@@ -5,6 +5,7 @@ I am a curious guy who has desire for tech and research. Trying to learn somethi
 
 I also have interest in Mobile App Development. I am interested to work with Android and Flutter.
 
+Currently I am trying to do some good projects out of my own interest. 
 
 In short: 
 
