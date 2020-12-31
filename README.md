@@ -1,4 +1,3 @@
-<!--
 ### Hello there I am Sajid! 👋
 
 
@@ -18,7 +17,7 @@ In short:
 - 📫 How to reach me: mail me.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I think cooking is more like coding. 
--->
+
 
 [![Neucro's github stats](https://github-readme-stats.vercel.app/api?username=neucro&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=highcontrast)](https://github.com/neucro/github-readme-stats)
 
