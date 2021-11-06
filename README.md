@@ -48,7 +48,7 @@
     </p>
 </p>
 
-mermaid
+```mermaid
 graph LR
 A[Eat] -- Sleep--> B((Coding))
 A --> C(Research & Analysis)
