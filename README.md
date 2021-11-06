@@ -48,12 +48,7 @@
     </p>
 </p>
 
-```mermaid
-graph LR
-A[Eat] -- Sleep--> B((Coding))
-A --> C(Research & Analysis)
-B --> D{Learning}
-C --> D
+
 
 <!--
 ![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Sajid's+Profile+View+Counts)
@@ -105,4 +100,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Mr.
 - ⚡ Fun fact: I think cooking is more like coding. 
 -->
+
 ![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Neucro+Profile+View+Counts)
