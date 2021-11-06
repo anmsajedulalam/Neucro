@@ -48,6 +48,12 @@
     </p>
 </p>
 
+mermaid
+graph LR
+A[Eat] -- Sleep--> B((Coding))
+A --> C(Research & Analysis)
+B --> D{Learning}
+C --> D
 
 <!--
 ![](https://komarev.com/ghpvc/?username=neucro&color=070c2e&style=plastic&label=I+am+watching+you!+Sajid's+Profile+View+Counts)
