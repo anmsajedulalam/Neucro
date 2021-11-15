@@ -29,7 +29,7 @@
 <p align='center'>- 👯 I’m looking to collaborate on AI/ML/DL Projects.</p>
 <p align='center'>- 🤔 I’m looking for help with jobs.</p>
 <p align='center'>- 💬 Ask me about giving me opportunities.</p>
-<p align='center'>- 📫 How to reach me: Twitter</p>
+<p align='center'>- 📫 How to reach me: Twitter/Email</p>
 <p align='center'>- 😄 Pronouns: He/His.</p>
 <p align='center'>- ⚡ Fun fact: I think cooking is more like coding.</p> 
 
